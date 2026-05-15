@@ -2230,14 +2230,6 @@
     "key": "G",
     "tempo": "Tempo"
   },
-  "867-5309/Jenny.Tommy_Tutone": {
-    "name": "867-5309/Jenny",
-    "artist": "Tommy Tutone",
-    "id": "867-5309/Jenny.Tommy_Tutone",
-    "lyrics": "V: F#m D A B\nC: E D A - E A D - E D A\nB: C#m E F#m A B\n\nJenny, Jenny, who can I turn to?\nYou give me something I can hold on to\nI know you think I'm like the others before\nWho saw your name and number on the wall\n\n  Jenny, I got your number, I need to make you mine\n  Jenny, don't change your number 867-5309\n\nJenny, Jenny, you're the girl for me\nOh, you don't know me, but you make me so happy\nI tried to call you before, but I lost my nerve\nI tried my imagination, but I was disturbed\n\n  Chorus\n\n    I got it.. I got your number on the wall\n    I got it.. for a good time, for a good time call\n\n    Solo\n\n  Jenny, don't change your number I need to make you mine\n  Jenny, I called your number 867-5309\n\nJenny Jenny, who can I turn to? .. 867-5309\nFor the price of a dime, I can always turn to you\n",
-    "key": "F#m",
-    "tempo": "Tempo"
-  },
   "A_Day_in_the_Life.The_Beatles": {
     "name": "A Day in the Life",
     "artist": "The Beatles",
@@ -2852,14 +2844,6 @@
     "lyrics": "C/D 10x1098x   Bb/D 10x81011x     G/D xx0433\n \nI: Dm C/D Bb/D C/D\nV: (Dm Bb F C) Bb\nC: (F Bb C) Bb\n \nI've been lonely, I've been waiting for you\nI'm pretending and that's all I can do\nThe love I'm sending ain't making it through to your heart\n\nYou've been hiding, never letting it show\nAlways trying to keep it under control\nYou got it down and you're well on the way to the top\nBut there's something that you forgot\n\n  What about love don't you want someone to care about you\n  What about love don't let it slip away\n  What about love I only want to share it with you\n  You might need it someday\n \nI can't tell you what you're feeling inside\nI can't sell you what you don't want to buy\nSomething's missing and you got to\nLook back on your life\nYou know something here just ain't right\n \n  Chorus",
     "key": "Dm",
     "tempo": "Tempo"
-  },
-  "Another_Brick_In_The_Wall,_Part_2.Pink_Floyd": {
-    "name": "Another Brick In The Wall, Part 2",
-    "artist": "Pink Floyd",
-    "id": "Another_Brick_In_The_Wall,_Part_2.Pink_Floyd",
-    "lyrics": "We don't need no education\nWe don't need no thought control\nNo dark sarcasm in the classroom\nTeacher, leave them kids alone\n\nHey! Teacher! Leave them kids alone!\n\n  All in all, it's just another brick in the wall\n  All in all, you're just another brick in the wall\n\nWe don't need no education\nWe don't need no thought control\nNo dark sarcasm in the classroom\nTeachers, leave them kids alone\n\nHey! Teacher! Leave us kids alone!\n\n  All in all, you're just another brick in the wall\n  All in all, you're just another brick in the wall\n\nSolo\n",
-    "key": "C",
-    "tempo": "104bpm"
   },
   "Whole_Lotta_Love.Led_Zeppelin": {
     "name": "Whole Lotta Love",
@@ -5153,5 +5137,19 @@
     "id": "She_Sells_Sanctuary.The_Cult",
     "lyrics": "#Riff 1\nG|-14---12---11---7---5-7-5-|-7-5---7---2-|\nD|-0--- throughout\n\nB|----------------------|----------15-|\nG|-14-12-16-14-12-14-12-|-14-12-14----|\nD|--0--\n\n#Riff 2\nG|-14-12-11-12-11-7-|-5-7-5-12-11-7-|\nD|--0-----\n\n#Riff 3\nG|-12-14--16-14---12-11-|\nD|--0---\n\n#Riff 4\nG|-14-12-11-|\nD|--0--\n\n-------------------------------\n#Riff 1\n#Band enters w/ R2\n\n#Verse 1 (D C G)\nOh, the heads that turn make my back burn\nAnd those heads that turn make my back, make my back burn\n\n#R3\n\n#Verse 2\nThe sparkle in your eyes keeps me alive\nAnd the sparkle in your eyes keeps me alive\nThe world and the world turns around\nThe world and the world, yeah the world drags me down\n\n#R2 -> Verse 1 -> R3\n\n#Verse 3\nThe fire in your eyes keeps me alive x 2\nI'm sure in her you'll find sanctuary x 2\n\nAnd the world, the world turns around\nAnd the world and the world, the world drags me down\nAnd the world and the world and the world, the world turns around\nAnd the world and the world and the world and the world\nAnd the world drags me down\n\n#Break, Riff 1\n\n#Riff 4\nAh, hey yeah, hey yeah\nAnd the world (hey yeah, hey), and the world turn\n\n#R1\n",
     "key": "D"
+  },
+  "Another_Brick_In_The_Wall,_Part_2.Pink_Floyd": {
+    "name": "Another Brick In The Wall, Part 2",
+    "artist": "Pink Floyd",
+    "id": "Another_Brick_In_The_Wall,_Part_2.Pink_Floyd",
+    "lyrics": "We don't need no education\nWe don't need no thought control\nNo dark sarcasm in the classroom\nTeacher, leave them kids alone\n\nHey! Teacher! Leave them kids alone!\n\n  All in all, it's just another brick in the wall\n  All in all, you're just another brick in the wall\n\nWe don't need no education\nWe don't need no thought control\nNo dark sarcasm in the classroom\nTeachers, leave them kids alone\n\nHey! Teacher! Leave us kids alone!\n\n  All in all, you're just another brick in the wall\n  All in all, you're just another brick in the wall\n\nSolo\n",
+    "key": "C"
+  },
+  "Free_Ride.Edgar_Winter_": {
+    "name": "Free Ride",
+    "artist": "Edgar Winter ",
+    "id": "Free_Ride.Edgar_Winter_",
+    "lyrics": "V: F#m D A B\nC: E D A - E A D - E D A\nB: C#m E F#m A B\n\nJenny, Jenny, who can I turn to?\nYou give me something I can hold on to\nI know you think I'm like the others before\nWho saw your name and number on the wall\n\n  Jenny, I got your number, I need to make you mine\n  Jenny, don't change your number 867-5309\n\nJenny, Jenny, you're the girl for me\nOh, you don't know me, but you make me so happy\nI tried to call you before, but I lost my nerve\nI tried my imagination, but I was disturbed\n\n  Chorus\n\n    I got it.. I got your number on the wall\n    I got it.. for a good time, for a good time call\n\n    Solo\n\n  Jenny, don't change your number I need to make you mine\n  Jenny, I called your number 867-5309\n\nJenny Jenny, who can I turn to? .. 867-5309\nFor the price of a dime, I can always turn to you\n",
+    "key": "A"
   }
 }
